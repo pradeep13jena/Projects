@@ -26,5 +26,5 @@
     https://thunder-pradeep13jenas-projects.vercel.app/
 
 7) Book Management System -
-    https://github.com/pradeep13jena/Jena-s-Bookstore
+    https://github.com/pradeep13jena/Jena-s-Bookstore ||
     https://jenasbookstore.netlify.app/
