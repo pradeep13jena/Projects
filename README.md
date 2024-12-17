@@ -2,14 +2,27 @@
 
 ## Table of Contents
 - [Portfolio](#portfolio-website)
+- [Efficiently](#Efficiently)
+- [Shoppyglobe](#Shoppyglobe)
+- [Libraire](#Libraire)
+- [Weather Forecast Application](#weather-forecast-application)
 - [To Do List](#to-do-list)
 - [Currency Converter](#currency-converter)
 - [Rock Paper & Scissor](#rock-paper--scissor-not-responsive)
 - [Student Enrollment System](#student-enrollment-system)
-- [Weather Forecast Application](#weather-forecast-application)
 - [Book Management System](#book-management-system)
-- [To-do-List (React)](#to-do-list-react)
 
+## Shoppyglobe
+- **GitHub Repository**: [Shoppyglobe](https://github.com/pradeep13jena/shoppyglobe)
+- **Live Website**: [Shoppyglobe - Making shopping a global affair](https://shoppyglobe.vercel.app/)
+
+## Libraire
+- **GitHub Repository**: [Libraire](https://github.com/pradeep13jena/Libraire)
+- **Live Website**: [Libraire - Epic read for every type of reader](https://libraire.netlify.app/)
+
+## Efficiently
+- **GitHub Repository**: [Efficiently](https://github.com/pradeep13jena/Efficiently-ReactJS)
+- **Live Website**: [Efficiently - Whats's on your mind today?](https://efficiently.vercel.app/)
 
 ## Portfolio website 
 - **GitHub Repository**: [Portfolio](https://github.com/pradeep13jena/My-Portfolio-Website)
@@ -38,7 +51,3 @@
 ## Book Management System
 - **GitHub Repository**: [Jena's Book Store](https://github.com/pradeep13jena/JenaBookstoreReact)
 - **Live Website**: [Jena's Book Store](https://jenasbookstore.netlify.app/)
-
-## To-do-List (React)
-- **GitHub Repository**: [Efficiently - Whats's on your mind today?](https://github.com/pradeep13jena/Efficiently-ReactJS)
-- **Live Website**: [Efficiently - Whats's on your mind today?](https://efficiently.vercel.app/)
